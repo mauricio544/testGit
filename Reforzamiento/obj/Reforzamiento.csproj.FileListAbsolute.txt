@@ -1,0 +1,8 @@
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\bin\Debug\Reforzamiento.exe
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\bin\Debug\Reforzamiento.pdb
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\obj\Debug\ResolveAssemblyReference.cache
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\obj\Debug\Reforzamiento.Form1.resources
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\obj\Debug\Reforzamiento.Properties.Resources.resources
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\obj\Debug\Reforzamiento.csproj.GenerateResource.Cache
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\obj\Debug\Reforzamiento.exe
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\Reforzamiento\Reforzamiento\obj\Debug\Reforzamiento.pdb
