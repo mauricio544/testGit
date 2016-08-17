@@ -1,0 +1,9 @@
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\bin\Debug\TestReforzamiento.exe.config
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\bin\Debug\TestReforzamiento.exe
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\bin\Debug\TestReforzamiento.pdb
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\obj\Debug\ResolveAssemblyReference.cache
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\obj\Debug\TestReforzamiento.Form1.resources
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\obj\Debug\TestReforzamiento.Properties.Resources.resources
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\obj\Debug\TestReforzamiento.csproj.GenerateResource.Cache
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\obj\Debug\TestReforzamiento.exe
+D:\usuarios\jmllerena\Documents\Visual Studio 2005\Projects\TestReforzamiento\TestReforzamiento\obj\Debug\TestReforzamiento.pdb
